@@ -1,0 +1,22 @@
+
+
+.App {
+  text-align: center;
+}
+
+.watch{
+  background: crimson;
+  color: #fff;
+  width: 50%;
+  margin: 0 auto;
+  padding: 2rem;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px white;
+  border-radius: 20px;
+}
+
+.watch:hover{
+  box-sizing: border-box;
+  box-shadow: 0 0 10px black;
+}
+
