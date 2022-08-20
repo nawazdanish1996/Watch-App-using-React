@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Watch-App-using-React/static/css/main.b357116e.css",
+    "main.js": "/Watch-App-using-React/static/js/main.9e7fd3d5.js",
+    "index.html": "/Watch-App-using-React/index.html",
+    "main.b357116e.css.map": "/Watch-App-using-React/static/css/main.b357116e.css.map",
+    "main.9e7fd3d5.js.map": "/Watch-App-using-React/static/js/main.9e7fd3d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b357116e.css",
+    "static/js/main.9e7fd3d5.js"
+  ]
+}
